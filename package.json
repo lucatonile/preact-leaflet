@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "leaflet": "1.7.1",
-    "leaflet.markercluster": "^1.4.1",
+    "leaflet.markercluster": "1.5.3",
     "preact": "10.5.12"
   },
   "devDependencies": {
